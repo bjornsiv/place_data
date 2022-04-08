@@ -6,16 +6,16 @@ This is my experimintation on using pandas to analyse large amount of data, 160,
 Expect long run times
 
 ## Python and requirements
-This project requires Python 3.10.4, and the additional libraries will be in 'requirements.txt'. The project is made in Jupytur notebook. 
+This project requires Python 3.10.4, and the additional libraries will be in 'requirements.txt'. The project is made in Jupyter notebook. 
 
-You will need to run the command 'pip -r requirements.txt' to install all additional libraries 
+You will need to run the command 'pip -r requirements.txt' to install all additional libraries into your enviroment
 
 
 ## Project structure
 
-**Results** The results will be printed to a csv file in './tmp/results'. 
+**Results** The results will be printed to csv files in './results'. 
 
-**Chunks** The chunks will be printed to csv files in './tmp/split_csv_pandas'. 
+**Chunks** The chunks will be printed to csv files in './tmp/'. 
 
 
 
@@ -50,7 +50,3 @@ Merk at en bør være i riktig branch før en begynner å gjøre endringer. Dett
 
 
 Dersom du ønsker å sende opp en ny branch som enda ikke eksisterer i GitHub eller GitLab-repository, er det nødvendig å kjøre kommandoen 'git push -u origin "my-branch", der "my-branch" er navnet på den branchen du nettopp laget.
-
-
-## Referanser
-I dette prosjektet har vi tatt utgangspunkt i egen kode og kode fra leksjoner, samt tatt inspirasjon fra sider som StackOverflow, Bootstrap-biblioteket og lignende. Ved kopi av kode har vi referert til dette i den gjeldende filen.
