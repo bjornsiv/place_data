@@ -1,6 +1,6 @@
 # Python Pandas experimentation on r/place history data 2022
 
-## Informasjon om prosjektet
+## Introduction
 This is my experimintation on using pandas to analyse large amount of data, 160,353,104 rows by 4 column to be exact. 
 
 Expect long run times
@@ -10,6 +10,8 @@ This project requires Python 3.10.4, and the additional libraries will be in 're
 
 You will need to run the command 'pip -r requirements.txt' to install all additional libraries into your enviroment
 
+You will also need to download the main dataset used from here: https://placedata.reddit.com/data/canvas-history/2022_place_canvas_history.csv.gzip 
+This must be placed in the root folder
 
 ## Project structure
 
